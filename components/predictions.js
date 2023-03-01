@@ -7,7 +7,7 @@ import Loader from "components/loader";
 
 export default function Predictions({ predictions, submissionCount }) {
   const scrollRef = useRef(null);
-
+ 
   useEffect(() => {
     if (submissionCount > 0) {
       scrollRef.current.scrollIntoView({ behavior: "smooth" });
