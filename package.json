@@ -1,9 +1,9 @@
 {
-  "name": "scribble-diffusion",
-  "description": "Turn your sketch into a refined image using AI",
-  "appName": "Scribble Diffusion",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "name": "funsocks",
+  "description": "Turn your sketch into a socks, t-shirts, and other clothing designs!",
+  "appName": "FunSocks",
+  "appSubtitle": "Turn your sketch into a socks, t-shirts, and other clothing designs!",
+  "appMetaDescription": "Turn your sketch into a socks, t-shirts, and other clothing designs!",
   "version": "1.0.0",
   "private": true,
   "scripts": {

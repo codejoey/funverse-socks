@@ -5,12 +5,9 @@ export default function Footer({ events }) {
     <footer className="w-full my-8">
       <div className="text-center lil-text mt-8">
         <div className="inline-block py-3 px-4 border bg-gray-200 rounded-lg">
-          🍿 Want to build an app like this? <Link
-          href="https://github.com/replicate/scribble-diffusion"
-          target="_blank">Fork it on GitHub</Link> or check out the{" "}
-          <Link href="https://youtu.be/6z07OdbrWOs" target="_blank">
-            video tutorial
-          </Link>
+          🍿 <Link
+          href="https://github.com/codejoey/funverse-socks"
+          target="_blank">Fork it on GitHub</Link>
           .
         </div>
       </div>
