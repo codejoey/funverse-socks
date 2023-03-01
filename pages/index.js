@@ -123,6 +123,12 @@ export default function Home() {
           />
 
           <Error error={error} />
+          <iframe id="inlineFrameExample"
+            title="Inline Frame Example"
+            width="300"
+            height="200"
+            src="https://fcl-nextjs-quickstart-three.vercel.app/">
+        </iframe>
         </div>
 
         <Predictions
